@@ -12,7 +12,7 @@ title                    : "Zhiyue (Daisy) Mo"
 title_separator          : "-"
 name                     : &name "Zhiyue Mo"
 description              : &description "Master's student in Applied Statistics at NYU"
-url                      : https://julieduyiliu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://zhiyuemo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zhiyuemo/zhiyuemo.github.io"
 
