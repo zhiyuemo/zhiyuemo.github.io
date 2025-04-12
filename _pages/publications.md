@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Peer-Reviewed Journal Articles
-- **Sui, J.**, Wu, B., Zheng, Y., **Mo, Z.**, et al. (2024). Non-obese type 2 diabetes among Asian Americans in comparison with other racial and ethnic groups. *Obesity Medicine*. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39712367/)
+- Sui, J., Wu, B., Zheng, Y., **Mo, Z.**, et al. (2024). Non-obese type 2 diabetes among Asian Americans in comparison with other racial and ethnic groups. *Obesity Medicine*. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39712367/)
 
 ## Manuscripts Under Review
 - **Mo, Z.**, Wu, B., Qi, X, et al. (2024). Psychiatric Disorders in Early-Onset vs. Late-Onset Dementia: Gender and Racial/Ethnic Disparities in the All of Us Program. (Under Review)
