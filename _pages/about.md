@@ -26,7 +26,7 @@ redirect_from:
 
 🎯 **Academic Mission**  
 > *"Translating data patterns into life-changing health decisions"*  
-Working under [Prof. Jennifer Hill](https://example.link) at NYU Causal Inference Lab, developing novel methods for:  
+Working under Prof. Jennifer Hill at [NYU Causal Inference Lab](https://thinkcausal.org/en/), developing novel methods for:  
 ✓ Counterfactual estimation in observational studies  
 ✓ Dynamic treatment regime optimization  
 ✓ Transportability of clinical trial results  
