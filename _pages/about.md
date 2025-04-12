@@ -35,10 +35,7 @@ Working under Prof. Jennifer Hill at [NYU Causal Inference Lab](https://thinkcau
 - 📢 Seeking PhD opportunities in Causal Inference (Fall 2025 intake)  
 - 🤝 Open for collaboration on RWD/RWE projects  
 
-If you are interested in my work, please feel free to drop me an [email](mailto:jinyu_wang@brown.edu).
-
-# 💻 Skills
-
+If you are interested in my work, please feel free to drop me an [email](mailto:zm2518@nyu.edu).
 
 # 📖 Educations
 - *2023.08 - 2025.05*, M.S. in Applied Statistics, New York University (New York, USA).
