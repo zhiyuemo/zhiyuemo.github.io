@@ -15,7 +15,7 @@ This website is built using the [Academic Pages template](https://github.com/aca
 
 ## Getting Started
 
-To view my site, visit: https://julieduyiliu.github.io
+To view my site, visit: https://zhiyuemo.github.io/
 
 ## License
 
