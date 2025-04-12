@@ -5,14 +5,9 @@ permalink: /projects/
 author_profile: true
 ---
 
-### [Unveiling and Mitigating Occupational Gender Stereotypes by Advancing Sentiment Analysis Models for Fairer Outcomes](https://github.com/julieduyiliu/DS-GA-1011-Occupational-Gender-Stereotypes/blob/main/DS_GA_1011_Final_Report_Occupational_Gender_Stereotypes.pdf)
-**Collaborators**: Mariam Abdullah, Kina Huang, Fanqi Cheng
-
-Our study highlights persistent gender bias in sentiment analysis models. Traditional models, such as BoW + Logistic Regression and BiLSTM, exhibited significant biases, aligning female terms with roles like "Secretary" and "Teacher" and male terms with "Truck Driver" and "Pilot," underscoring their reliance on biased training data. Transformer-based models, including BERT, ALBERT, RoBERTa, and GPT-4o-mini, showed substantial improvements, with non-significant Female-Male bias scores. However, residual biases persisted, particularly in professions like "Pilot" and "Nurse," reflecting underlying societal stereotypes in pre-trained embeddings.
-
 ### Discovering and Mitigating Potential Gender Bias in Machine Learning
 
-**Collaborators**: Daisy Mo, Yuan Huang
+**Collaborators**: [Duyi Liu](https://julieduyiliu.github.io/), Yuan Huang
 
 This research aims to tackle gender compensation disparity in the technology industry using machine learning techniques applied to Stack Overflow’s Annual Developer Survey data. We investigate whether machine learning algorithms can identify gender disparities in compensation determination. We identify gender-based compensation differences through data analysis and modeling and explore methods to mitigate bias. Findings show significant compensation gaps between male and female developers. The best-performing model, Bayesian additive regression trees, effectively reduces gender disparities when the gender feature is blinded. However, challenges remain in addressing bias stemming from various sources. Sensitivity analysis confirms the persistence of gender disparities even under scenarios of substantial unobserved factors. Overall, this study contributes to discussions on gender bias in the tech sector and highlights the potential of machine learning to promote fairer compensation practices.
 
