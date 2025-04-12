@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Zhiyue (Daisy) Mo | Biostatistician & Causal Explorer"
+title: ""
 excerpt: "Harnessing Data to Illuminate Health Decisions"
 author_profile: true
 redirect_from: 
