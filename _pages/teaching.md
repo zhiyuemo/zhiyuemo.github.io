@@ -12,7 +12,7 @@ author_profile: true
 
 ▸ **APSTA-GE 2001: Statistics for Behavioral & Social Sciences I**  
    - Graduate level core course (Sep 2023 - Dec 2023)  
-   - Key responsibilities: \\ 
+   - Key responsibilities: //
      • Conducted weekly R programming labs  
      • Developed interactive Shiny apps for statistical concept visualization  
      • Designed grading rubrics for hypothesis testing projects
