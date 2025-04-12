@@ -12,14 +12,14 @@ author_profile: true
 
 ▸ **APSTA-GE 2001: Statistics for Behavioral & Social Sciences I**  
    - Graduate level core course (Sep 2023 - Dec 2023)  
-   - Key responsibilities:\\ 
+   - Key responsibilities: \\ 
      • Conducted weekly R programming labs  
      • Developed interactive Shiny apps for statistical concept visualization  
      • Designed grading rubrics for hypothesis testing projects
 
 ▸ **APSTA-GE 2002: Statistics for Behavioral & Social Sciences II**  
    - Graduate level advanced course (Jan 2024 - May 2024)  
-   - Key responsibilities:\\ 
+   - Key responsibilities: \\ 
      • Conducted weekly R programming labs  
      • Created longitudinal data analysis workflow templates  
      • Hosted office hours and QA sessioin after class
@@ -29,6 +29,6 @@ author_profile: true
 
 ▸ **APSTA-GE 2042: Multilevel Modeling - Nested & Longitudinal Data**  
    - Graduate level methods course (Sep 2024 - Dec 2024)  
-   - Anticipated contributions:\\ 
+   - Anticipated contributions: \\ 
      • Grading students' weekly assignments and final projects
      • Developing diagnostic tools for hierarchical models
