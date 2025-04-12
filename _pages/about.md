@@ -39,4 +39,4 @@ If you are interested in my work, please feel free to drop me an [email](mailto:
 
 # 📖 Educations
 - *2023.08 - 2025.05*, M.S. in Applied Statistics, New York University (New York, USA).
-- *2019.09 - 2023.07*, B.S. in Big Data Management and Application, Southern University of Science and Technology (Shenzhen, China).
+- *2019.09 - 2023.07*, B.S. in Big Data Management and Application, [Southern University of Science and Technology](https://www.sustech.edu.cn/en/) (Shenzhen, China).
