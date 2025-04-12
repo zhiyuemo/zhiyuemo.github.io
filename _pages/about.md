@@ -21,12 +21,12 @@ redirect_from:
 📌 **Current Orbit**  
 - 🎓 M.S. Candidate in Applied Statistics @ NYU (Expected 2025)  
 - 📊 Lead Biostatistician @ NYU Rory Meyer School of Nursing
-- 🔍 Research Focus: Causal Inference in Heterogeneous Populations using EHR & Claims Data  
+- 📌 Research Assistant @ [NYU Causal Inference Lab](https://thinkcausal.org/en/)
+- 🔍 Research Focus: Causal Inference in Heterogeneous Populations using EHR  
 - 🧠 Developing: ML-powered Causal Inference Designs for Precision Medicine  
 
 🎯 **Academic Mission**  
-> *"Translating data patterns into life-changing health decisions"*  
-Working under Prof. Jennifer Hill at [NYU Causal Inference Lab](https://thinkcausal.org/en/), developing novel methods for:  
+> *"Translating data patterns into life-changing health decisions"*, developing novel methods for:  
 ✓ Counterfactual estimation in observational studies  
 ✓ Dynamic treatment regime optimization  
 ✓ Transportability of clinical trial results  
