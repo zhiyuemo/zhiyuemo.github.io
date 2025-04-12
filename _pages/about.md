@@ -22,7 +22,7 @@ redirect_from:
 - 🎓 M.S. Candidate in Applied Statistics @ NYU (Expected 2025)  
 - 📊 Lead Biostatistician @ NYU Rory Meyer School of Nursing
 - 🔍 Research Focus: Causal Inference in Heterogeneous Populations using EHR & Claims Data  
-- 🧠 Developing: ML-powered Adaptive Trial Designs for Precision Medicine  
+- 🧠 Developing: ML-powered Causal Inference Designs for Precision Medicine  
 
 🎯 **Academic Mission**  
 > *"Translating data patterns into life-changing health decisions"*  
