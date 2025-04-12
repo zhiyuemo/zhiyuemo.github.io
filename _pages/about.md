@@ -21,7 +21,7 @@ redirect_from:
 📌 **Current Orbit**  
 - 🎓 M.S. Candidate in Applied Statistics @ NYU (Expected 2025)  
 - 📊 Lead Biostatistician @ NYU Rory Meyer School of Nursing
-- 📌 Research Assistant @ [NYU Causal Inference Lab](https://thinkcausal.org/en/) | @ [NYU Motor Speech Lab](https://wp.nyu.edu/grigoslab/) 
+- 📌 Research Assistant @ [NYU Causal Inference Lab](https://thinkcausal.org/en/) and @ [NYU Motor Speech Lab](https://wp.nyu.edu/grigoslab/) 
 - 🔍 Research Focus: Causal Inference in Heterogeneous Populations using EHR  
 - 🧠 Developing: ML-powered Causal Inference Designs for Precision Medicine  
 
