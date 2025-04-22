@@ -21,7 +21,7 @@ repository               : "zhiyuemo.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Weixin Image_profile.jpg"
+  avatar           : "profile.jpg"
   name             : "Zhiyue (Daisy) Mo"
   pronouns         : "she/her"  
   bio              : "Master's student in Applied Statistics"
